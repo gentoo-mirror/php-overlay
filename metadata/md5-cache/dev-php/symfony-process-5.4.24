@@ -1,0 +1,11 @@
+BDEPEND=dev-php/theseer-Autoload
+DEFINED_PHASES=install prepare
+DESCRIPTION=Executes commands in sub-processes
+EAPI=8
+HOMEPAGE=https://github.com/symfony/process
+KEYWORDS=~amd64 ~arm ~arm64 ~x86
+LICENSE=MIT
+RDEPEND=dev-lang/php:* >=dev-php/symfony-polyfill-php80-1.16 dev-php/fedora-autoloader
+SLOT=0
+SRC_URI=https://github.com/symfony/process/archive/v5.4.24.tar.gz -> symfony-process-5.4.24.tar.gz
+_md5_=aae57b6e1c60f99c321a0ed63fe5d79b

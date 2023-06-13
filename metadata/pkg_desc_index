@@ -1,0 +1,18 @@
+dev-php/class-map-generator 1.0.0: Utilities to scan PHP code and generate class maps.
+dev-php/composer 2.5.7 2.5.8: Dependency Manager for PHP
+dev-php/pcre 3.1.0: PCRE wrapping library that offers type-safe preg_* replacements.
+dev-php/phar-utils 1.2.1: PHAR file format utilities, for when PHP phars you up
+dev-php/signal-handler 2.0.1: Simple unix signal handler that silently fails on windows for easy cross-platform development
+dev-php/symfony-console 5.4.23 5.4.24: Subtree split of the Symfony Console Component
+dev-php/symfony-deprecation-contracts 2.5.1 2.5.2: A generic function and convention to trigger deprecation notices
+dev-php/symfony-filesystem 5.4.19 5.4.23: Subtree split of the Symfony Filesystem Component
+dev-php/symfony-finder 5.4.19 5.4.21: Finds files and directories via an intuitive fluent interface
+dev-php/symfony-polyfill-ctype 1.27.0: Symfony polyfill for ctype functions
+dev-php/symfony-polyfill-intl-grapheme 1.27.0: Symfony polyfill for intl's grapheme_* functions
+dev-php/symfony-polyfill-intl-normalizer 1.27.0: Symfony polyfill for intl's Normalizer class and related functions
+dev-php/symfony-polyfill-mbstring 1.27.0: Symfony polyfill for the Mbstring extension
+dev-php/symfony-polyfill-php80 1.27.0: Symfony polyfill backporting some PHP 8.0+ features to lower PHP versions
+dev-php/symfony-polyfill-php81 1.27.0: Symfony polyfill backporting some PHP 8.1+ features to lower PHP versions
+dev-php/symfony-process 5.4.23 5.4.24: Executes commands in sub-processes
+dev-php/symfony-service-contracts 2.5.2: Generic abstractions related to writing services
+dev-php/symfony-string 5.4.19 5.4.22: API to strings and deals with bytes, UTF-8 code points and grapheme clusters
