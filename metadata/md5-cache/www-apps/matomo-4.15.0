@@ -8,7 +8,7 @@ IUSE=vhosts
 KEYWORDS=~amd64
 LICENSE=GPL-3
 RDEPEND=>=dev-lang/php-7.4[gd,pdo] virtual/mysql virtual/httpd-php app-admin/webapp-config
-SLOT=4.13.3
-SRC_URI=https://builds.matomo.org/matomo-4.13.3.tar.gz
+SLOT=4.15.0
+SRC_URI=https://builds.matomo.org/matomo-4.15.0.tar.gz
 _eclasses_=webapp	1aad5c010cfdf11d0376c80467b0de4c
-_md5_=ee4aab4e6a93e21c05288a549d3e0846
+_md5_=8746be77069debb8b80dc5f73737b67b
