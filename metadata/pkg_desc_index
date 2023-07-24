@@ -9,9 +9,12 @@ dev-php/path-util 2.3.0: A robust cross-platform utility for normalizing, compar
 dev-php/pcre 3.1.0: PCRE wrapping library that offers type-safe preg_* replacements.
 dev-php/pdepend 2.14.0: Official version of pdepend to be handled with Composer
 dev-php/pecl-jsmin 3.0.0: PHP extension to compress JS files
+dev-php/pecl-mcrypt 1.0.6: Bindings for the libmcrypt library
+dev-php/pecl-memprof 3.0.2: Memory profiler for PHP. Helps finding memory leaks in PHP scripts.
 dev-php/pecl-snappy 0.2.1: PHP wrapper for snappy
 dev-php/phar-updater 1.1.1 1.3.0: A thing to make PHAR self-updating easy and secure.
 dev-php/phar-utils 1.2.1: PHAR file format utilities, for when PHP phars you up
+dev-php/php-spx 0.4.13: A simple & straight-to-the-point PHP profiling extension with its built-in web UI
 dev-php/phpcs-variable-analysis 2.11.12 2.11.16: A PHPCS sniff to detect problems with variables.
 dev-php/phpdoc-parser 1.22.0 1.22.1: PHPDoc parser with support for nullable, intersection and generic types
 dev-php/phpmd 2.13.0: PHPMD is a spin-off project of PHP Depend and aims to be a PHP equivalent of the well known Java tool PMD.
