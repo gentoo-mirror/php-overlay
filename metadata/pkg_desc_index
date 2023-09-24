@@ -18,7 +18,7 @@ dev-php/php-spx 0.4.13: A simple & straight-to-the-point PHP profiling extension
 dev-php/phpcs-variable-analysis 2.11.12 2.11.16: A PHPCS sniff to detect problems with variables.
 dev-php/phpdoc-parser 1.22.0 1.22.1: PHPDoc parser with support for nullable, intersection and generic types
 dev-php/phpmd 2.13.0: PHPMD is a spin-off project of PHP Depend and aims to be a PHP equivalent of the well known Java tool PMD.
-dev-php/predis 2.2.0 2.2.1: A flexible and feature-complete Redis client for PHP.
+dev-php/predis 2.2.1 2.2.2: A flexible and feature-complete Redis client for PHP.
 dev-php/psr-container 1.1.2 2.0.2: Common Container Interface (PHP FIG PSR-11)
 dev-php/signal-handler 2.0.1: Simple unix signal handler that silently fails on windows for easy cross-platform development
 dev-php/symfony-config 6.2.7 6.3.0: Helps you find, load, combine, autofill and validate configuration values of any kind
@@ -41,6 +41,6 @@ dev-php/xdebug 3.2.0: A PHP debugging and profiling extension
 dev-php/xdebug-handler 3.0.3: Restarts a process without Xdebug.
 www-apps/baikal 0.9.3: Lightweight CalDAV+CardDAV server
 www-apps/linkace 1.12.1 1.12.2: LinkAce is a bookmark archive.
-www-apps/lychee 4.11.0 4.11.1: A great looking and easy-to-use photo-management-system.
+www-apps/lychee 4.11.1 4.13.0: A great looking and easy-to-use photo-management-system.
 www-apps/matomo 4.15.0 4.15.1: Matomo is the leading Free/Libre open analytics platform.
-www-apps/mytinytodo 1.7.3 1.7.4: Simple way to manage your todo list in AJAX style.
+www-apps/mytinytodo 1.7.4 1.7.6: Simple way to manage your todo list in AJAX style.
