@@ -2,7 +2,7 @@ dev-php/PHP_CodeSniffer 3.7.2: PHP_CodeSniffer tokenizes PHP, JavaScript and CSS
 dev-php/assert 1.11.0: Assertions to validate method input/output with nice error messages.
 dev-php/class-map-generator 1.0.0 1.1.0: Utilities to scan PHP code and generate class maps.
 dev-php/coding-standard 8.12.1 8.13.1: Slevomat Coding Standard for PHP_CodeSniffer complements Consistence Coding Standard by providing sniffs with additional checks.
-dev-php/composer 2.5.7 2.5.8: Dependency Manager for PHP
+dev-php/composer 2.5.8 2.6.5: Dependency Manager for PHP
 dev-php/drupal-coder 8.3.19 8.3.20: Coder is a library to review Drupal code.
 dev-php/drupal-finder 1.2.2: Helper class to locate a Drupal installation from a given path.
 dev-php/path-util 2.3.0: A robust cross-platform utility for normalizing, comparing and modifying file paths.
@@ -15,27 +15,28 @@ dev-php/pecl-snappy 0.2.1: PHP wrapper for snappy
 dev-php/phar-updater 1.1.1 1.3.0: A thing to make PHAR self-updating easy and secure.
 dev-php/phar-utils 1.2.1: PHAR file format utilities, for when PHP phars you up
 dev-php/php-spx 0.4.14: A simple & straight-to-the-point PHP profiling extension with its built-in web UI
-dev-php/phpcs-variable-analysis 2.11.12 2.11.16: A PHPCS sniff to detect problems with variables.
+dev-php/phpcs-variable-analysis 2.11.16 2.11.17: A PHPCS sniff to detect problems with variables.
 dev-php/phpdoc-parser 1.22.0 1.22.1: PHPDoc parser with support for nullable, intersection and generic types
 dev-php/phpmd 2.13.0: PHPMD is a spin-off project of PHP Depend and aims to be a PHP equivalent of the well known Java tool PMD.
 dev-php/predis 2.2.1 2.2.2: A flexible and feature-complete Redis client for PHP.
 dev-php/psr-container 1.1.2 2.0.2: Common Container Interface (PHP FIG PSR-11)
-dev-php/signal-handler 2.0.1: Simple unix signal handler that silently fails on windows for easy cross-platform development
-dev-php/symfony-config 6.2.7 6.3.0: Helps you find, load, combine, autofill and validate configuration values of any kind
-dev-php/symfony-console 5.4.23 5.4.24: Subtree split of the Symfony Console Component
+dev-php/signal-handler 2.0.2: Simple unix signal handler that silently fails on windows for easy cross-platform development
+dev-php/spdx-licenses 1.5.7: SPDX licenses list and validation library.
+dev-php/symfony-config 6.3.0 6.3.2: Helps you find, load, combine, autofill and validate configuration values of any kind
+dev-php/symfony-console 5.4.24 5.4.28: Subtree split of the Symfony Console Component
 dev-php/symfony-dependency-injection 3.4.47: Symfony DependencyInjection Component
 dev-php/symfony-deprecation-contracts 2.5.1 2.5.2: A generic function and convention to trigger deprecation notices
 dev-php/symfony-filesystem 5.4.23 5.4.25: Subtree split of the Symfony Filesystem Component
-dev-php/symfony-finder 5.4.19 5.4.21: Finds files and directories via an intuitive fluent interface
-dev-php/symfony-polyfill-ctype 1.27.0: Symfony polyfill for ctype functions
-dev-php/symfony-polyfill-intl-grapheme 1.27.0: Symfony polyfill for intl's grapheme_* functions
+dev-php/symfony-finder 5.4.21 5.4.27: Finds files and directories via an intuitive fluent interface
+dev-php/symfony-polyfill-ctype 1.27.0 1.28.0: Symfony polyfill for ctype functions
+dev-php/symfony-polyfill-intl-grapheme 1.27.0 1.28.0: Symfony polyfill for intl's grapheme_* functions
 dev-php/symfony-polyfill-intl-normalizer 1.27.0: Symfony polyfill for intl's Normalizer class and related functions
-dev-php/symfony-polyfill-mbstring 1.27.0: Symfony polyfill for the Mbstring extension
-dev-php/symfony-polyfill-php80 1.27.0: Symfony polyfill backporting some PHP 8.0+ features to lower PHP versions
-dev-php/symfony-polyfill-php81 1.27.0: Symfony polyfill backporting some PHP 8.1+ features to lower PHP versions
-dev-php/symfony-process 5.4.23 5.4.24: Executes commands in sub-processes
+dev-php/symfony-polyfill-mbstring 1.27.0 1.28.0: Symfony polyfill for the Mbstring extension
+dev-php/symfony-polyfill-php80 1.27.0 1.28.0: Symfony polyfill backporting some PHP 8.0+ features to lower PHP versions
+dev-php/symfony-polyfill-php81 1.27.0 1.28.0: Symfony polyfill backporting some PHP 8.1+ features to lower PHP versions
+dev-php/symfony-process 5.4.24 5.4.28: Executes commands in sub-processes
 dev-php/symfony-service-contracts 2.5.2: Generic abstractions related to writing services
-dev-php/symfony-string 5.4.19 5.4.22: API to strings and deals with bytes, UTF-8 code points and grapheme clusters
+dev-php/symfony-string 5.4.22 5.4.29: API to strings and deals with bytes, UTF-8 code points and grapheme clusters
 dev-php/symfony-yaml 5.4.19 5.4.23: Loads and dumps YAML files
 dev-php/xdebug 3.2.0: A PHP debugging and profiling extension
 dev-php/xdebug-handler 3.0.3: Restarts a process without Xdebug.

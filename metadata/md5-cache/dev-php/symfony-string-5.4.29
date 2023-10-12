@@ -7,5 +7,5 @@ KEYWORDS=~amd64 ~arm ~arm64 ~x86
 LICENSE=MIT
 RDEPEND=dev-lang/php:* >=dev-php/symfony-polyfill-ctype-1.8 >=dev-php/symfony-polyfill-intl-grapheme-1.0 >=dev-php/symfony-polyfill-intl-normalizer-1.0 >=dev-php/symfony-polyfill-mbstring-1.0 >=dev-php/symfony-polyfill-php80-1.15 dev-php/fedora-autoloader
 SLOT=0
-SRC_URI=https://github.com/symfony/string/archive/v5.4.19.tar.gz -> symfony-string-5.4.19.tar.gz
+SRC_URI=https://github.com/symfony/string/archive/v5.4.29.tar.gz -> symfony-string-5.4.29.tar.gz
 _md5_=f15c5c264c92f4ad9ccca89241d59532
