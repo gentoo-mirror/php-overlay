@@ -1,5 +1,5 @@
 BDEPEND=app-arch/unzip
-DEFINED_PHASES=install postinst prepare prerm setup unpack
+DEFINED_PHASES=install postinst prepare prerm setup
 DEPEND=app-admin/webapp-config
 DESCRIPTION=LinkAce is a bookmark archive.
 EAPI=8
@@ -10,7 +10,7 @@ KEYWORDS=~amd64
 LICENSE=MIT
 RDEPEND=>=dev-lang/php-8.0[cli,fileinfo,ftp,pdo] mysql? ( virtual/mysql ) sqlite? ( dev-db/sqlite ) virtual/httpd-php app-admin/webapp-config
 REQUIRED_USE=|| ( mysql sqlite )
-SLOT=1.12.1
-SRC_URI=https://github.com/Kovah/LinkAce/releases/download/v1.12.1/linkace-v1.12.1.zip -> linkace-1.12.1.zip
+SLOT=1.13.0
+SRC_URI=https://github.com/Kovah/LinkAce/releases/download/v1.13.0/linkace-v1.13.0.zip -> linkace-1.13.0.zip
 _eclasses_=webapp	de2d3d345b44597c10d7104a7bcdf7b2
-_md5_=627a4ddf2eeafd0fe149e717510c5c37
+_md5_=9425ac3b7f7e17fafe43ba15a7b6b195
