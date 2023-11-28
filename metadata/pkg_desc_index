@@ -40,7 +40,7 @@ dev-php/symfony-string 5.4.22 5.4.29: API to strings and deals with bytes, UTF-8
 dev-php/symfony-yaml 5.4.19 5.4.23: Loads and dumps YAML files
 dev-php/xdebug 3.2.0: A PHP debugging and profiling extension
 dev-php/xdebug-handler 3.0.3: Restarts a process without Xdebug.
-www-apps/baikal 0.9.3: Lightweight CalDAV+CardDAV server
+www-apps/baikal 0.9.3 0.9.4: Lightweight CalDAV+CardDAV server
 www-apps/linkace 1.12.2 1.13.0: LinkAce is a bookmark archive.
 www-apps/lychee 4.11.1 4.13.0: A great looking and easy-to-use photo-management-system.
 www-apps/matomo 4.15.0 4.15.1: Matomo is the leading Free/Libre open analytics platform.
