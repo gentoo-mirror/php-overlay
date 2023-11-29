@@ -43,5 +43,5 @@ dev-php/xdebug-handler 3.0.3: Restarts a process without Xdebug.
 www-apps/baikal 0.9.3 0.9.4: Lightweight CalDAV+CardDAV server
 www-apps/linkace 1.12.2 1.13.0: LinkAce is a bookmark archive.
 www-apps/lychee 4.11.1 4.13.0: A great looking and easy-to-use photo-management-system.
-www-apps/matomo 4.15.0 4.15.1: Matomo is the leading Free/Libre open analytics platform.
+www-apps/matomo 4.15.0 4.15.1 4.16.0: Matomo is the leading Free/Libre open analytics platform.
 www-apps/mytinytodo 1.7.4 1.7.6: Simple way to manage your todo list in AJAX style.

@@ -1,0 +1,14 @@
+DEFINED_PHASES=install postinst prerm setup
+DEPEND=dev-php/composer app-admin/webapp-config
+DESCRIPTION=Matomo is the leading Free/Libre open analytics platform.
+EAPI=8
+HOMEPAGE=https://matomo.org
+INHERIT=webapp
+IUSE=vhosts
+KEYWORDS=~amd64 ~arm64
+LICENSE=GPL-3
+RDEPEND=>=dev-lang/php-7.4[gd,pdo] virtual/mysql virtual/httpd-php app-admin/webapp-config
+SLOT=4.16.0
+SRC_URI=https://github.com/matomo-org/matomo/releases/download/4.16.0/matomo-4.16.0.tar.gz
+_eclasses_=webapp	de2d3d345b44597c10d7104a7bcdf7b2
+_md5_=cff9ffed4c241835191cfbf3b8d60643
