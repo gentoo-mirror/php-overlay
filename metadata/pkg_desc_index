@@ -38,6 +38,7 @@ dev-php/symfony-process 5.4.24 5.4.28: Executes commands in sub-processes
 dev-php/symfony-service-contracts 2.5.2: Generic abstractions related to writing services
 dev-php/symfony-string 5.4.22 5.4.29: API to strings and deals with bytes, UTF-8 code points and grapheme clusters
 dev-php/symfony-yaml 5.4.19 5.4.23: Loads and dumps YAML files
+dev-php/theseer-Autoload 1.29.0: PHP Autoload Builder
 dev-php/xdebug 3.2.0: A PHP debugging and profiling extension
 dev-php/xdebug-handler 3.0.3: Restarts a process without Xdebug.
 www-apps/baikal 0.9.3 0.9.4: Lightweight CalDAV+CardDAV server
