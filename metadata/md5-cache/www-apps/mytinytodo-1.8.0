@@ -9,7 +9,7 @@ KEYWORDS=~amd64 ~arm ~ppc64
 LICENSE=GPL-2
 RDEPEND=>=dev-lang/php-7 mysql? ( virtual/mysql ) sqlite? ( dev-db/sqlite ) virtual/httpd-php app-admin/webapp-config
 REQUIRED_USE=|| ( mysql sqlite )
-SLOT=1.7.4
-SRC_URI=https://github.com/maxpozdeev/mytinytodo/releases/download/v1.7.4/mytinytodo-v1.7.4.tar.gz
+SLOT=1.8.0
+SRC_URI=https://github.com/maxpozdeev/mytinytodo/releases/download/v1.8.0/mytinytodo-v1.8.0.tar.gz
 _eclasses_=webapp	de2d3d345b44597c10d7104a7bcdf7b2
-_md5_=579212b4c68c3262ec05deeb611a62f1
+_md5_=9bd23001f95129a03698e1fe0acaebb1

@@ -8,6 +8,7 @@ dev-php/drupal-finder 1.2.2: Helper class to locate a Drupal installation from a
 dev-php/path-util 2.3.0: A robust cross-platform utility for normalizing, comparing and modifying file paths.
 dev-php/pcre 3.1.0 3.1.1: PCRE wrapping library that offers type-safe preg_* replacements.
 dev-php/pdepend 2.14.0 2.15.1: Official version of pdepend to be handled with Composer
+dev-php/pecl-apcu 5.1.22: Stripped down version of APC supporting only user cache
 dev-php/pecl-jsmin 3.0.0: PHP extension to compress JS files
 dev-php/pecl-mcrypt 1.0.6: Bindings for the libmcrypt library
 dev-php/pecl-memprof 3.0.2: Memory profiler for PHP. Helps finding memory leaks in PHP scripts.
@@ -45,4 +46,4 @@ www-apps/baikal 0.9.3 0.9.4: Lightweight CalDAV+CardDAV server
 www-apps/linkace 1.12.2 1.13.0: LinkAce is a bookmark archive.
 www-apps/lychee 4.11.1 4.13.0: A great looking and easy-to-use photo-management-system.
 www-apps/matomo 4.15.0 4.15.1 4.16.0: Matomo is the leading Free/Libre open analytics platform.
-www-apps/mytinytodo 1.7.4 1.7.6: Simple way to manage your todo list in AJAX style.
+www-apps/mytinytodo 1.7.6 1.8.0: Simple way to manage your todo list in AJAX style.
