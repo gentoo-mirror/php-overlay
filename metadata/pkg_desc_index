@@ -23,19 +23,19 @@ dev-php/predis 2.2.1 2.2.2: A flexible and feature-complete Redis client for PHP
 dev-php/psr-container 1.1.2 2.0.2: Common Container Interface (PHP FIG PSR-11)
 dev-php/signal-handler 2.0.2: Simple unix signal handler that silently fails on windows for easy cross-platform development
 dev-php/spdx-licenses 1.5.7: SPDX licenses list and validation library.
-dev-php/symfony-config 6.3.0 6.3.2: Helps you find, load, combine, autofill and validate configuration values of any kind
-dev-php/symfony-console 5.4.24 5.4.28: Subtree split of the Symfony Console Component
+dev-php/symfony-config 6.3.2 6.4.3: Helps you find, load, combine, autofill and validate configuration values of any kind
+dev-php/symfony-console 5.4.28 5.4.35: Subtree split of the Symfony Console Component
 dev-php/symfony-dependency-injection 3.4.47: Symfony DependencyInjection Component
 dev-php/symfony-deprecation-contracts 2.5.1 2.5.2: A generic function and convention to trigger deprecation notices
-dev-php/symfony-filesystem 5.4.23 5.4.25: Subtree split of the Symfony Filesystem Component
-dev-php/symfony-finder 5.4.21 5.4.27: Finds files and directories via an intuitive fluent interface
+dev-php/symfony-filesystem 5.4.25 5.4.35: Subtree split of the Symfony Filesystem Component
+dev-php/symfony-finder 5.4.27 5.4.35: Finds files and directories via an intuitive fluent interface
 dev-php/symfony-polyfill-ctype 1.27.0 1.28.0: Symfony polyfill for ctype functions
-dev-php/symfony-polyfill-intl-grapheme 1.27.0 1.28.0: Symfony polyfill for intl's grapheme_* functions
-dev-php/symfony-polyfill-intl-normalizer 1.27.0 1.28.0: Symfony polyfill for intl's Normalizer class and related functions
-dev-php/symfony-polyfill-mbstring 1.27.0 1.28.0: Symfony polyfill for the Mbstring extension
-dev-php/symfony-polyfill-php80 1.27.0 1.28.0: Symfony polyfill backporting some PHP 8.0+ features to lower PHP versions
-dev-php/symfony-polyfill-php81 1.27.0 1.28.0: Symfony polyfill backporting some PHP 8.1+ features to lower PHP versions
-dev-php/symfony-process 5.4.24 5.4.28: Executes commands in sub-processes
+dev-php/symfony-polyfill-intl-grapheme 1.28.0 1.29.0: Symfony polyfill for intl's grapheme_* functions
+dev-php/symfony-polyfill-intl-normalizer 1.28.0 1.29.0: Symfony polyfill for intl's Normalizer class and related functions
+dev-php/symfony-polyfill-mbstring 1.28.0 1.29.0: Symfony polyfill for the Mbstring extension
+dev-php/symfony-polyfill-php80 1.28.0 1.29.0: Symfony polyfill backporting some PHP 8.0+ features to lower PHP versions
+dev-php/symfony-polyfill-php81 1.28.0 1.29.0: Symfony polyfill backporting some PHP 8.1+ features to lower PHP versions
+dev-php/symfony-process 5.4.28 5.4.35: Executes commands in sub-processes
 dev-php/symfony-service-contracts 2.5.2: Generic abstractions related to writing services
 dev-php/symfony-string 5.4.22 5.4.29: API to strings and deals with bytes, UTF-8 code points and grapheme clusters
 dev-php/symfony-yaml 5.4.19 5.4.23: Loads and dumps YAML files

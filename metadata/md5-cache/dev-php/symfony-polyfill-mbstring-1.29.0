@@ -7,5 +7,5 @@ KEYWORDS=~amd64 ~arm ~arm64 ~x86
 LICENSE=MIT
 RDEPEND=dev-lang/php:* dev-php/fedora-autoloader
 SLOT=0
-SRC_URI=https://github.com/symfony/polyfill-mbstring/archive/v1.27.0.tar.gz -> symfony-polyfill-mbstring-1.27.0.tar.gz
-_md5_=79a086bbc61e35feecf43d4f336d136d
+SRC_URI=https://github.com/symfony/polyfill-mbstring/archive/v1.29.0.tar.gz -> symfony-polyfill-mbstring-1.29.0.tar.gz
+_md5_=624e586f6e8a4ed66e1e0168aab7828c

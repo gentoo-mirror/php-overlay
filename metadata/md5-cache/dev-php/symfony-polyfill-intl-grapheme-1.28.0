@@ -8,4 +8,4 @@ LICENSE=MIT
 RDEPEND=dev-lang/php:* dev-php/fedora-autoloader
 SLOT=0
 SRC_URI=https://github.com/symfony/polyfill-intl-grapheme/archive/v1.28.0.tar.gz -> symfony-polyfill-intl-grapheme-1.28.0.tar.gz
-_md5_=87ba18e451a54c1d4f2058482c9ca8a4
+_md5_=d5162135918f9f5cf62962225cb110e0
