@@ -1,0 +1,11 @@
+BDEPEND=dev-php/theseer-Autoload
+DEFINED_PHASES=install prepare
+DESCRIPTION=Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
+EAPI=8
+HOMEPAGE=https://github.com/symfony/serializer
+KEYWORDS=~amd64 ~arm ~arm64 ~x86
+LICENSE=MIT
+RDEPEND=dev-lang/php:* >=dev-php/symfony-deprecation-contracts-2.1 >=dev-php/symfony-polyfill-ctype-1.8 >=dev-php/symfony-polyfill-php80-1.16 dev-php/fedora-autoloader
+SLOT=0
+SRC_URI=https://github.com/symfony/serializer/archive/v5.4.35.tar.gz -> symfony-serializer-5.4.35.tar.gz
+_md5_=777e249e80e4f3f70ae5663aa0d6fbfd
