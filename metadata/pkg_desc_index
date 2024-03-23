@@ -46,8 +46,8 @@ dev-php/symfony-yaml 5.4.19 5.4.23: Loads and dumps YAML files
 dev-php/theseer-Autoload 1.29.0: PHP Autoload Builder
 dev-php/xdebug 3.2.0: A PHP debugging and profiling extension
 dev-php/xdebug-handler 3.0.3: Restarts a process without Xdebug.
-www-apps/baikal 0.9.3 0.9.4: Lightweight CalDAV+CardDAV server
-www-apps/linkace 1.13.0 1.14.0: LinkAce is a bookmark archive.
+www-apps/baikal 0.9.3 0.9.4 0.9.5: Lightweight CalDAV+CardDAV server
+www-apps/linkace 1.13.0 1.14.0 1.14.1: LinkAce is a bookmark archive.
 www-apps/lychee 4.11.1 4.13.0: A great looking and easy-to-use photo-management-system.
-www-apps/matomo 5.0.1 5.0.2: Matomo is the leading Free/Libre open analytics platform.
+www-apps/matomo 5.0.2 5.0.3: Matomo is the leading Free/Libre open analytics platform.
 www-apps/mytinytodo 1.8.0 1.8.1: Simple way to manage your todo list in AJAX style.
