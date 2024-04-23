@@ -3,7 +3,7 @@ dev-php/assert 1.11.0: Assertions to validate method input/output with nice erro
 dev-php/class-map-generator 1.0.0 1.1.0: Utilities to scan PHP code and generate class maps.
 dev-php/clue-graph 0.9.3: GraPHP is the mathematical graph/network library written in PHP.
 dev-php/coding-standard 8.13.1 8.14.1: Slevomat Coding Standard for PHP_CodeSniffer complements Consistence Coding Standard by providing sniffs with additional checks.
-dev-php/composer 2.5.8 2.6.5 2.7.1 2.7.2: Dependency Manager for PHP
+dev-php/composer 2.5.8 2.6.5 2.7.1 2.7.2 2.7.4: Dependency Manager for PHP
 dev-php/drupal-coder 8.3.20 8.3.21: Coder is a library to review Drupal code.
 dev-php/drupal-finder 1.2.2: Helper class to locate a Drupal installation from a given path.
 dev-php/graphp-algorithms 0.8.2: Common mathematical graph algorithms implemented in PHP
