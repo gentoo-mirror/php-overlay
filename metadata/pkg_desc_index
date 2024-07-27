@@ -18,7 +18,7 @@ dev-php/pecl-snappy 0.2.1: PHP wrapper for snappy
 dev-php/phar-updater 1.3.0 1.4.0: A thing to make PHAR self-updating easy and secure.
 dev-php/phar-utils 1.2.1: PHAR file format utilities, for when PHP phars you up
 dev-php/php-meminfo 1.1.1 2.0.0_pre1: Extension exposing memory information
-dev-php/php-spx 0.4.15-r1: A simple & straight-to-the-point PHP profiling extension with its built-in web UI
+dev-php/php-spx 0.4.15-r1 0.4.16: A simple & straight-to-the-point PHP profiling extension with its built-in web UI
 dev-php/phpcs-variable-analysis 2.11.16 2.11.17: A PHPCS sniff to detect problems with variables.
 dev-php/phpdoc-parser 1.22.1 1.24.2: PHPDoc parser with support for nullable, intersection and generic types
 dev-php/phpmd 2.13.0 2.14.1: PHPMD is a spin-off project of PHP Depend and aims to be a PHP equivalent of the well known Java tool PMD.
