@@ -14,7 +14,7 @@ dev-php/pecl-apcu 5.1.22: Stripped down version of APC supporting only user cach
 dev-php/pecl-jsmin 3.0.0: PHP extension to compress JS files
 dev-php/pecl-mcrypt 1.0.6: Bindings for the libmcrypt library
 dev-php/pecl-memprof 3.0.2: Memory profiler for PHP. Helps finding memory leaks in PHP scripts.
-dev-php/pecl-snappy 0.2.1: PHP wrapper for snappy
+dev-php/pecl-snappy 0.2.1-r1: PHP wrapper for snappy
 dev-php/phar-updater 1.3.0 1.4.0: A thing to make PHAR self-updating easy and secure.
 dev-php/phar-utils 1.2.1: PHAR file format utilities, for when PHP phars you up
 dev-php/php-meminfo 1.1.1 2.0.0_pre1: Extension exposing memory information
