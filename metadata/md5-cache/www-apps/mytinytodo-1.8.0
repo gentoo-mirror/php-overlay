@@ -11,5 +11,5 @@ RDEPEND=>=dev-lang/php-7 mysql? ( virtual/mysql ) sqlite? ( dev-db/sqlite ) virt
 REQUIRED_USE=|| ( mysql sqlite )
 SLOT=1.8.0
 SRC_URI=https://github.com/maxpozdeev/mytinytodo/releases/download/v1.8.0/mytinytodo-v1.8.0.tar.gz
-_eclasses_=webapp	ec35e2e7054fc885ca6bba50f7dfc225
+_eclasses_=webapp	5fa840db95fc7348dfd53b8526ed05f5
 _md5_=9bd23001f95129a03698e1fe0acaebb1
