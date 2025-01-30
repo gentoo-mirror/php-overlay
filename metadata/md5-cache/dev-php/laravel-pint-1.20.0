@@ -1,0 +1,10 @@
+DEFINED_PHASES=install
+DESCRIPTION=Laravel Pint is an opinionated PHP code style fixer for minimalists
+EAPI=8
+HOMEPAGE=https://github.com/laravel/pint
+KEYWORDS=~amd64 ~arm ~arm64 ~x86
+LICENSE=MIT
+RDEPEND=dev-lang/php:*
+SLOT=0
+SRC_URI=https://github.com/laravel/pint/archive/refs/tags/v1.20.0.tar.gz -> laravel-pint-1.20.0.tar.gz
+_md5_=d998c837eb518d06e7cc5b3d836c8faf
