@@ -1,0 +1,11 @@
+BDEPEND=dev-php/theseer-Autoload
+DEFINED_PHASES=install prepare
+DESCRIPTION=A thing to make PHAR self-updating easy and secure.
+EAPI=8
+HOMEPAGE=https://github.com/laravel-zero/phar-updater
+KEYWORDS=~amd64 ~arm ~arm64 ~x86
+LICENSE=BSD-3-Clause
+RDEPEND=>=dev-lang/php-7.4:* dev-php/fedora-autoloader
+SLOT=0
+SRC_URI=https://github.com/laravel-zero/phar-updater/archive/v1.4.0.tar.gz -> laravel-zero-phar-updater-1.4.0.tar.gz
+_md5_=3744f43c2f76a5f76e516afacfd4fa75

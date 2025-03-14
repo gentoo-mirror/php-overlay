@@ -1,0 +1,11 @@
+BDEPEND=dev-php/theseer-Autoload
+DEFINED_PHASES=install prepare
+DESCRIPTION=Provides an object-oriented API to strings and deals with bytes, UTF-8 code points and grapheme clusters in a unified way
+EAPI=8
+HOMEPAGE=https://github.com/symfony/string
+KEYWORDS=~amd64 ~arm ~arm64 ~x86
+LICENSE=MIT
+RDEPEND=>=dev-lang/php-7.2:* dev-php/fedora-autoloader dev-php/symfony-polyfill-ctype dev-php/symfony-polyfill-intl-grapheme dev-php/symfony-polyfill-intl-normalizer dev-php/symfony-polyfill-mbstring dev-php/symfony-polyfill-php80
+SLOT=0
+SRC_URI=https://github.com/symfony/string/archive/v5.4.47.tar.gz -> symfony-string-5.4.47.tar.gz
+_md5_=f7be056fc0ce080a4ae0e8cb1653b06a
