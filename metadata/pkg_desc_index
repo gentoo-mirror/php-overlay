@@ -3,13 +3,12 @@ dev-php/PHP_CodeSniffer 3.7.2: PHP_CodeSniffer tokenizes PHP, JavaScript and CSS
 dev-php/ca-bundle 1.5.6: Lets you find a path to the system CA bundle, and includes a fallback to the Mozilla CA bundle.
 dev-php/class-map-generator 1.6.0: Utilities to scan PHP code and generate class maps.
 dev-php/clue-graph 0.9.3: GraPHP is the mathematical graph/network library written in PHP.
-dev-php/coding-standard 8.13.1 8.14.1: Slevomat Coding Standard for PHP_CodeSniffer complements Consistence Coding Standard by providing sniffs with additional checks.
 dev-php/composer 2.8.6: Composer helps you declare, manage and install dependencies of PHP projects. It ensures you have the right stack everywhere.
-dev-php/drupal-coder 8.3.20 8.3.21: Coder is a library to review Drupal code.
+dev-php/drupal-coder 8.3.28: Coder is a library to review Drupal code.
 dev-php/drupal-finder 1.2.2: Helper class to locate a Drupal installation from a given path.
 dev-php/graphp-algorithms 0.8.2: Common mathematical graph algorithms implemented in PHP
 dev-php/justinrainbow-json-schema 5.3.0: A library to validate a json schema.
-dev-php/laravel-pint 1.20.0: Laravel Pint is an opinionated PHP code style fixer for minimalists
+dev-php/laravel-pint 1.20.0 1.21.2: Laravel Pint is an opinionated PHP code style fixer for minimalists
 dev-php/laravel-zero-phar-updater 1.4.0: A thing to make PHAR self-updating easy and secure.
 dev-php/metadata-minifier 1.0.0: Small utility library that handles metadata minification and expansion.
 dev-php/pcre 3.3.2: PCRE wrapping library that offers type-safe preg_* replacements.
@@ -20,11 +19,10 @@ dev-php/pecl-mcrypt 1.0.6: Bindings for the libmcrypt library
 dev-php/pecl-memprof 3.0.2: Memory profiler for PHP. Helps finding memory leaks in PHP scripts.
 dev-php/pecl-snappy 0.2.1-r1: PHP wrapper for snappy
 dev-php/php-meminfo 1.1.1 2.0.0_pre1: Extension exposing memory information
-dev-php/php-spx 0.4.15-r1 0.4.16: A simple & straight-to-the-point PHP profiling extension with its built-in web UI
-dev-php/phpcs-variable-analysis 2.11.16 2.11.17: A PHPCS sniff to detect problems with variables.
-dev-php/phpdoc-parser 1.22.1 1.24.2: PHPDoc parser with support for nullable, intersection and generic types
+dev-php/php-spx 0.4.15-r1 0.4.16 0.4.18: A simple & straight-to-the-point PHP profiling extension with its built-in web UI
 dev-php/phpmd 2.13.0 2.14.1: PHPMD is a spin-off project of PHP Depend and aims to be a PHP equivalent of the well known Java tool PMD.
-dev-php/predis 2.2.1 2.2.2: A flexible and feature-complete Redis client for PHP.
+dev-php/phpstan-phpdoc-parser 2.1.0: PHPDoc parser with support for nullable, intersection and generic types
+dev-php/predis 2.2.2 2.3.0: A flexible and feature-complete Redis client for PHP.
 dev-php/psr-container 1.1.2: Common Container Interface (PHP FIG PSR-11)
 dev-php/psr-log 1.1.4: Common interface for logging libraries
 dev-php/react-promise 3.2.0: A lightweight implementation of CommonJS Promises/A for PHP
@@ -32,6 +30,8 @@ dev-php/seld-jsonlint 1.11.0: JSON Linter
 dev-php/seld-phar-utils 1.2.1: PHAR file format utilities, for when PHP phars you up
 dev-php/seld-signal-handler 2.0.2: Simple unix signal handler that silently fails where signals are not supported for easy cross-platform development
 dev-php/semver 3.4.3: Semver library that offers utilities, version constraint parsing and validation.
+dev-php/sirbrillig-phpcs-variable-analysis 2.11.22: A PHPCS sniff to detect problems with variables.
+dev-php/slevomat-coding-standard 8.16.0: Slevomat Coding Standard for PHP_CodeSniffer complements Consistence Coding Standard by providing sniffs with additional checks.
 dev-php/spdx-licenses 1.5.8: SPDX licenses list and validation library.
 dev-php/symfony-config 6.3.2 6.4.3: Helps you find, load, combine, autofill and validate configuration values of any kind
 dev-php/symfony-console 5.4.47: Eases the creation of beautiful and testable command line interfaces
@@ -50,7 +50,7 @@ dev-php/symfony-process 5.4.47: Executes commands in sub-processes
 dev-php/symfony-serializer 5.4.45: Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
 dev-php/symfony-service-contracts 2.5.4: Generic abstractions related to writing services
 dev-php/symfony-string 5.4.47: Provides an object-oriented API to strings and deals with bytes, UTF-8 code points and grapheme clusters in a unified way
-dev-php/symfony-yaml 5.4.19 5.4.23: Loads and dumps YAML files
+dev-php/symfony-yaml 5.4.45: Loads and dumps YAML files
 dev-php/theseer-Autoload 1.29.0 1.29.3: PHP Autoload Builder
 dev-php/webmozart-assert 1.11.0: Assertions to validate method input/output with nice error messages.
 dev-php/webmozart-path-util 2.3.0: A robust cross-platform utility for normalizing, comparing and modifying file paths.

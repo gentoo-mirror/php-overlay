@@ -1,0 +1,11 @@
+BDEPEND=dev-php/theseer-Autoload
+DEFINED_PHASES=install prepare
+DESCRIPTION=PHPDoc parser with support for nullable, intersection and generic types
+EAPI=8
+HOMEPAGE=https://github.com/phpstan/phpdoc-parser
+KEYWORDS=~amd64 ~arm ~arm64 ~x86
+LICENSE=MIT
+RDEPEND=>=dev-lang/php-7.4:* dev-php/fedora-autoloader
+SLOT=0
+SRC_URI=https://github.com/phpstan/phpdoc-parser/archive/2.1.0.tar.gz -> phpstan-phpdoc-parser-2.1.0.tar.gz
+_md5_=468c9660b7bbc786144e6ca03f2d8774

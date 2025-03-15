@@ -1,0 +1,11 @@
+BDEPEND=dev-php/theseer-Autoload dev-php/PHP_CodeSniffer
+DEFINED_PHASES=install postinst postrm prepare
+DESCRIPTION=Coder is a library to review Drupal code.
+EAPI=8
+HOMEPAGE=https://github.com/pfrenssen/coder
+KEYWORDS=~amd64 ~arm64
+LICENSE=GPL-2
+RDEPEND=dev-lang/php:* dev-php/fedora-autoloader dev-php/sirbrillig-phpcs-variable-analysis dev-php/slevomat-coding-standard dev-php/PHP_CodeSniffer dev-php/symfony-yaml
+SLOT=0
+SRC_URI=https://github.com/pfrenssen/coder/archive/refs/tags/8.3.28.tar.gz -> drupal-coder-8.3.28.tar.gz
+_md5_=ff38fbc6f4e5e0236b89066df5e1a956
