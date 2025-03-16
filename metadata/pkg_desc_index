@@ -33,7 +33,7 @@ dev-php/semver 3.4.3: Semver library that offers utilities, version constraint p
 dev-php/sirbrillig-phpcs-variable-analysis 2.11.22: A PHPCS sniff to detect problems with variables.
 dev-php/slevomat-coding-standard 8.16.0: Slevomat Coding Standard for PHP_CodeSniffer complements Consistence Coding Standard by providing sniffs with additional checks.
 dev-php/spdx-licenses 1.5.8: SPDX licenses list and validation library.
-dev-php/symfony-config 6.3.2 6.4.3: Helps you find, load, combine, autofill and validate configuration values of any kind
+dev-php/symfony-config 5.4.45: Helps you find, load, combine, autofill and validate configuration values of any kind
 dev-php/symfony-console 5.4.47: Eases the creation of beautiful and testable command line interfaces
 dev-php/symfony-dependency-injection 5.4.48: Allows you to standardize and centralize the way objects are constructed in your application
 dev-php/symfony-deprecation-contracts 2.5.4: A generic function and convention to trigger deprecation notices
