@@ -8,4 +8,4 @@ LICENSE=MIT
 RDEPEND=>=dev-lang/php-7.2:* dev-php/fedora-autoloader dev-php/symfony-polyfill-ctype dev-php/symfony-polyfill-mbstring dev-php/symfony-polyfill-php80
 SLOT=0
 SRC_URI=https://github.com/symfony/filesystem/archive/v5.4.45.tar.gz -> symfony-filesystem-5.4.45.tar.gz
-_md5_=31c4178eb4a480159ad3a616b50bc7db
+_md5_=1757ca1c7cf03d317142ec97c892d2a9

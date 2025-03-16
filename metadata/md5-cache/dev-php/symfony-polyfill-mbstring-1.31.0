@@ -8,4 +8,4 @@ LICENSE=MIT
 RDEPEND=>=dev-lang/php-7.2:* dev-php/fedora-autoloader
 SLOT=0
 SRC_URI=https://github.com/symfony/polyfill-mbstring/archive/v1.31.0.tar.gz -> symfony-polyfill-mbstring-1.31.0.tar.gz
-_md5_=b5475e4fd3239ca027b4ab3099d35014
+_md5_=de7a2b7009609f0116be4646af0c2b0e

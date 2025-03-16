@@ -8,4 +8,4 @@ LICENSE=MIT
 RDEPEND=>=dev-lang/php-7.2:* dev-php/fedora-autoloader
 SLOT=0
 SRC_URI=https://github.com/symfony/polyfill-php81/archive/v1.31.0.tar.gz -> symfony-polyfill-php81-1.31.0.tar.gz
-_md5_=8d203cb6e8c5e7141192cb74f4e96d44
+_md5_=f761056c0fcb363ad50e387e8c4c5e80

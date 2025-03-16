@@ -1,0 +1,11 @@
+BDEPEND=dev-php/theseer-Autoload
+DEFINED_PHASES=install prepare
+DESCRIPTION=Allows you to standardize and centralize the way objects are constructed in your application
+EAPI=8
+HOMEPAGE=https://github.com/symfony/dependency-injection
+KEYWORDS=~amd64 ~arm ~arm64 ~x86
+LICENSE=MIT
+RDEPEND=>=dev-lang/php-7.2:* dev-php/fedora-autoloader dev-php/psr-container dev-php/symfony-deprecation-contracts dev-php/symfony-polyfill-php80 dev-php/symfony-polyfill-php81 dev-php/symfony-service-contracts
+SLOT=0
+SRC_URI=https://github.com/symfony/dependency-injection/archive/v5.4.48.tar.gz -> symfony-dependency-injection-5.4.48.tar.gz
+_md5_=d3f41aad897b4e63121b48f3c8427691

@@ -12,7 +12,7 @@ dev-php/laravel-pint 1.20.0 1.21.2: Laravel Pint is an opinionated PHP code styl
 dev-php/laravel-zero-phar-updater 1.4.0: A thing to make PHAR self-updating easy and secure.
 dev-php/metadata-minifier 1.0.0: Small utility library that handles metadata minification and expansion.
 dev-php/pcre 3.3.2: PCRE wrapping library that offers type-safe preg_* replacements.
-dev-php/pdepend 2.14.0 2.15.1: Official version of pdepend to be handled with Composer
+dev-php/pdepend 2.16.2: Official version of pdepend to be handled with Composer
 dev-php/pecl-apcu 5.1.22: Stripped down version of APC supporting only user cache
 dev-php/pecl-jsmin 3.0.0: PHP extension to compress JS files
 dev-php/pecl-mcrypt 1.0.6: Bindings for the libmcrypt library
@@ -35,7 +35,7 @@ dev-php/slevomat-coding-standard 8.16.0: Slevomat Coding Standard for PHP_CodeSn
 dev-php/spdx-licenses 1.5.8: SPDX licenses list and validation library.
 dev-php/symfony-config 6.3.2 6.4.3: Helps you find, load, combine, autofill and validate configuration values of any kind
 dev-php/symfony-console 5.4.47: Eases the creation of beautiful and testable command line interfaces
-dev-php/symfony-dependency-injection 3.4.47: Symfony DependencyInjection Component
+dev-php/symfony-dependency-injection 5.4.48: Allows you to standardize and centralize the way objects are constructed in your application
 dev-php/symfony-deprecation-contracts 2.5.4: A generic function and convention to trigger deprecation notices
 dev-php/symfony-filesystem 5.4.45: Provides basic utilities for the filesystem
 dev-php/symfony-finder 5.4.45: Finds files and directories via an intuitive fluent interface
