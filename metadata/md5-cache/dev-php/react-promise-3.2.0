@@ -1,11 +1,11 @@
-BDEPEND=dev-php/theseer-Autoload
+BDEPEND=dev-php/theseer-Autoload !dev-php/reactphp-promise
 DEFINED_PHASES=install prepare
 DESCRIPTION=A lightweight implementation of CommonJS Promises/A for PHP
 EAPI=8
 HOMEPAGE=https://github.com/reactphp/promise
 KEYWORDS=~amd64 ~arm ~arm64 ~x86
 LICENSE=MIT
-RDEPEND=>=dev-lang/php-7.1:* dev-php/fedora-autoloader
+RDEPEND=>=dev-lang/php-7.1:* dev-php/fedora-autoloader !dev-php/reactphp-promise
 SLOT=0
 SRC_URI=https://github.com/reactphp/promise/archive/v3.2.0.tar.gz -> react-promise-3.2.0.tar.gz
-_md5_=c683c0ad5a955c0c1d19fb14a1a81379
+_md5_=b9e9d98524eef31aff7d0230fb9b6f24
