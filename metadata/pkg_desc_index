@@ -20,7 +20,7 @@ dev-php/pecl-memprof 3.0.2: Memory profiler for PHP. Helps finding memory leaks 
 dev-php/pecl-snappy 0.2.1-r1: PHP wrapper for snappy
 dev-php/php-meminfo 1.1.1 2.0.0_pre1: Extension exposing memory information
 dev-php/php-spx 0.4.15-r1 0.4.16 0.4.18: A simple & straight-to-the-point PHP profiling extension with its built-in web UI
-dev-php/phpmd 2.13.0 2.14.1: PHPMD is a spin-off project of PHP Depend and aims to be a PHP equivalent of the well known Java tool PMD.
+dev-php/phpmd 2.15.0: PHPMD is a spin-off project of PHP Depend and aims to be a PHP equivalent of the well known Java tool PMD.
 dev-php/phpstan-phpdoc-parser 2.1.0: PHPDoc parser with support for nullable, intersection and generic types
 dev-php/predis 2.2.2 2.3.0: A flexible and feature-complete Redis client for PHP.
 dev-php/psr-container 1.1.2: Common Container Interface (PHP FIG PSR-11)

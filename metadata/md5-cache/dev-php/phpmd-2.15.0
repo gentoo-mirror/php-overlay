@@ -7,5 +7,5 @@ KEYWORDS=~amd64 ~arm64
 LICENSE=BSD
 RDEPEND=dev-lang/php:*[xml] dev-php/fedora-autoloader dev-php/pdepend dev-php/xdebug-handler
 SLOT=0
-SRC_URI=https://github.com/phpmd/phpmd/archive/refs/tags/2.14.1.tar.gz -> phpmd-2.14.1.tar.gz
-_md5_=a0cd4cae83143e5151b129f9d9acb822
+SRC_URI=https://github.com/phpmd/phpmd/archive/refs/tags/2.15.0.tar.gz -> phpmd-2.15.0.tar.gz
+_md5_=875d2d16a9bae353f71b6a2c8c55a03a
