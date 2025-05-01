@@ -1,15 +1,16 @@
 app-portage/composer-ebuild 0.1.4: Composer Ebuild
 dev-php/PHP_CodeSniffer 3.7.2: PHP_CodeSniffer tokenizes PHP, JavaScript and CSS files and detects violations of a defined set of coding standards.
 dev-php/ca-bundle 1.5.6: Lets you find a path to the system CA bundle, and includes a fallback to the Mozilla CA bundle.
-dev-php/class-map-generator 1.6.0: Utilities to scan PHP code and generate class maps.
+dev-php/class-map-generator 1.6.1: Utilities to scan PHP code and generate class maps.
 dev-php/clue-graph 0.9.3: GraPHP is the mathematical graph/network library written in PHP.
-dev-php/composer 2.8.6: Composer helps you declare, manage and install dependencies of PHP projects. It ensures you have the right stack everywhere.
+dev-php/composer 2.8.8: Composer helps you declare, manage and install dependencies of PHP projects. It ensures you have the right stack everywhere.
 dev-php/drupal-coder 8.3.28: Coder is a library to review Drupal code.
 dev-php/drupal-finder 1.2.2: Helper class to locate a Drupal installation from a given path.
 dev-php/graphp-algorithms 0.8.2: Common mathematical graph algorithms implemented in PHP
-dev-php/justinrainbow-json-schema 5.3.0: A library to validate a json schema.
+dev-php/justinrainbow-json-schema 5.3.0 6.4.1: A library to validate a json schema.
 dev-php/laravel-pint 1.20.0 1.21.2: Laravel Pint is an opinionated PHP code style fixer for minimalists
 dev-php/laravel-zero-phar-updater 1.4.0: A thing to make PHAR self-updating easy and secure.
+dev-php/marc-mabe-php-enum 4.7.1: Simple and fast implementation of enumerations with native PHP
 dev-php/metadata-minifier 1.0.0: Small utility library that handles metadata minification and expansion.
 dev-php/pcre 3.3.2: PCRE wrapping library that offers type-safe preg_* replacements.
 dev-php/pdepend 2.16.2: Official version of pdepend to be handled with Composer
@@ -23,8 +24,8 @@ dev-php/php-spx 0.4.15-r1 0.4.16 0.4.18: A simple & straight-to-the-point PHP pr
 dev-php/phpmd 2.15.0: PHPMD is a spin-off project of PHP Depend and aims to be a PHP equivalent of the well known Java tool PMD.
 dev-php/phpstan-phpdoc-parser 2.1.0: PHPDoc parser with support for nullable, intersection and generic types
 dev-php/predis 2.2.2 2.3.0: A flexible and feature-complete Redis client for PHP.
-dev-php/psr-container 1.1.2: Common Container Interface (PHP FIG PSR-11)
-dev-php/psr-log 1.1.4: Common interface for logging libraries
+dev-php/psr-container 1.1.2 2.0.2: Common Container Interface (PHP FIG PSR-11)
+dev-php/psr-log 1.1.4 3.0.2: Common interface for logging libraries
 dev-php/react-promise 3.2.0: A lightweight implementation of CommonJS Promises/A for PHP
 dev-php/seld-jsonlint 1.11.0: JSON Linter
 dev-php/seld-phar-utils 1.2.1: PHAR file format utilities, for when PHP phars you up
@@ -34,11 +35,11 @@ dev-php/sirbrillig-phpcs-variable-analysis 2.11.22: A PHPCS sniff to detect prob
 dev-php/slevomat-coding-standard 8.16.0: Slevomat Coding Standard for PHP_CodeSniffer complements Consistence Coding Standard by providing sniffs with additional checks.
 dev-php/spdx-licenses 1.5.8: SPDX licenses list and validation library.
 dev-php/symfony-config 5.4.45: Helps you find, load, combine, autofill and validate configuration values of any kind
-dev-php/symfony-console 5.4.47: Eases the creation of beautiful and testable command line interfaces
+dev-php/symfony-console 5.4.47 6.4.20: Eases the creation of beautiful and testable command line interfaces
 dev-php/symfony-dependency-injection 5.4.48: Allows you to standardize and centralize the way objects are constructed in your application
-dev-php/symfony-deprecation-contracts 2.5.4: A generic function and convention to trigger deprecation notices
-dev-php/symfony-filesystem 5.4.45: Provides basic utilities for the filesystem
-dev-php/symfony-finder 5.4.45: Finds files and directories via an intuitive fluent interface
+dev-php/symfony-deprecation-contracts 2.5.4 3.5.1: A generic function and convention to trigger deprecation notices
+dev-php/symfony-filesystem 5.4.45 6.4.13: Provides basic utilities for the filesystem
+dev-php/symfony-finder 5.4.45 6.4.17: Finds files and directories via an intuitive fluent interface
 dev-php/symfony-polyfill-ctype 1.31.0: Symfony polyfill for ctype functions
 dev-php/symfony-polyfill-intl-grapheme 1.31.0: Symfony polyfill for intl's grapheme_* functions
 dev-php/symfony-polyfill-intl-normalizer 1.31.0: Symfony polyfill for intl's Normalizer class and related functions
@@ -46,10 +47,10 @@ dev-php/symfony-polyfill-mbstring 1.31.0: Symfony polyfill for the Mbstring exte
 dev-php/symfony-polyfill-php73 1.31.0: Symfony polyfill backporting some PHP 7.3+ features to lower PHP versions
 dev-php/symfony-polyfill-php80 1.31.0: Symfony polyfill backporting some PHP 8.0+ features to lower PHP versions
 dev-php/symfony-polyfill-php81 1.31.0: Symfony polyfill backporting some PHP 8.1+ features to lower PHP versions
-dev-php/symfony-process 5.4.47: Executes commands in sub-processes
+dev-php/symfony-process 5.4.47 6.4.20: Executes commands in sub-processes
 dev-php/symfony-serializer 5.4.45: Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
-dev-php/symfony-service-contracts 2.5.4: Generic abstractions related to writing services
-dev-php/symfony-string 5.4.47: Provides an object-oriented API to strings and deals with bytes, UTF-8 code points and grapheme clusters in a unified way
+dev-php/symfony-service-contracts 2.5.4 3.5.1: Generic abstractions related to writing services
+dev-php/symfony-string 5.4.47 6.4.15: Provides an object-oriented API to strings and deals with bytes, UTF-8 code points and grapheme clusters in a unified way
 dev-php/symfony-yaml 5.4.45: Loads and dumps YAML files
 dev-php/theseer-Autoload 1.29.0 1.29.3: PHP Autoload Builder
 dev-php/webmozart-assert 1.11.0: Assertions to validate method input/output with nice error messages.
