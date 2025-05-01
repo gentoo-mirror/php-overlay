@@ -54,7 +54,7 @@ dev-php/symfony-yaml 5.4.45: Loads and dumps YAML files
 dev-php/theseer-Autoload 1.29.0 1.29.3: PHP Autoload Builder
 dev-php/webmozart-assert 1.11.0: Assertions to validate method input/output with nice error messages.
 dev-php/webmozart-path-util 2.3.0: A robust cross-platform utility for normalizing, comparing and modifying file paths.
-dev-php/xdebug 3.2.0: A PHP debugging and profiling extension
+dev-php/xdebug 3.2.0 3.4.2: A PHP debugging and profiling extension
 dev-php/xdebug-handler 3.0.5: Restarts a process without Xdebug.
 www-apps/baikal 0.9.5 0.10.1: Lightweight CalDAV+CardDAV server
 www-apps/linkace 1.13.0 1.14.0 1.14.1: LinkAce is a bookmark archive.
